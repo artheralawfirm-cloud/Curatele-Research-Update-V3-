@@ -617,10 +617,10 @@ export default function App() {
               </div>
 
               {/* Gambar Tim Wilayah II */}
-              <img src="/foto-tim.png" alt="Foto Tim Wilayah II" className="w-full max-h-[600px] object-contain mx-auto rounded-lg shadow-lg mb-2" />
+              <img src="/foto-tim.png" alt="Foto Tim Wilayah II" className="w-full max-h-[500px] object-contain mx-auto rounded-lg shadow-lg mb-0" />
 
               {/* Names block */}
-              <div className="space-y-3">
+              <div className="space-y-0">
                 <h2 className="text-xl sm:text-2xl font-serif font-black text-white leading-tight">
                   <span className="block text-amber-400 font-sans text-xs sm:text-sm font-black tracking-widest uppercase mb-1">Nama Tim</span>
                   Tim Wilayah II BHP Medan <span className="block text-amber-400 font-sans text-lg font-black tracking-wide mt-1 animate-pulse">(Tim Kicau Mania)</span>
