@@ -617,7 +617,7 @@ export default function App() {
               </div>
 
               {/* Gambar Tim Wilayah II */}
-              <img src="/foto-tim.png" alt="Foto Tim Wilayah II" className="w-full max-h-[500px] object-contain mx-auto rounded-lg shadow-lg mb-6" />
+              <img src="/foto-tim.png" alt="Foto Tim Wilayah II" className="w-full max-h-[600px] object-contain mx-auto rounded-lg shadow-lg mb-2" />
 
               {/* Names block */}
               <div className="space-y-3">
